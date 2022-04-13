@@ -1,0 +1,8 @@
+
+
+We are using Waze data to better understand mobility issues in Romania. The data comes from our data partnership with the World Bank. 
+The data has the alerts as well as jams for three cities of interest.
+
+See the notebooks for the packages needed to run the scripts. The data is cleaned in the cleandata script and will output a .csv file.
+This script needs to be run before any other script can be run.  
+
