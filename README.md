@@ -1,8 +1,11 @@
 <p><center> <img src="images/GOST_Logo_2021.png" width="700"/> </p></center>
 
 # waze-romania
-### Using Waze data to better understand mobility issues in Romania.
-In this repository, we aggregate traffic data from Waze in Cluj from individual points to hexagons (from 36 km^2 to 0.015km^2 in size) for vizualization and analysis of traffic alerts in the city for the years 2019 until 2022.
+## Using Waze data to better understand mobility issues in Romania.
+In this repository, we aggregate traffic data from Waze in Cluj from individual points to hexagons (from 36 km^2 to 0.015km^2 in size) for vizualization and analysis of traffic alerts in the city for the years 2019 until 2022. We then run various machine learning algorithms to predict daily traffic alerts in distinct regions of Cluj given spatial and temporal variables.
+
+### Predictive Features
+We incorporate spatial variables on hospital and school locations in the city and bus stop locations. Temporal variables included in our models are Covid-19 stringency index, precipitation, day of the week, month, and indicators for a home soccer occuring and whether it is a holiday.
 
 ## Workflow
 
