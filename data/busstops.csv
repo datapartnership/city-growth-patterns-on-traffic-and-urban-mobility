@@ -1,0 +1,430 @@
+,Stop,City,lat,lon
+0,Primăverii,Cluj-napoca,46.751877,23.545594
+1,Gârbau,Cluj-napoca,46.75204,23.546185
+2,Spital Recuperare Sud,Cluj-napoca,46.754431,23.584495
+3,Disp. Zorilor,Cluj-napoca,46.752625,23.577523
+4,Suceagu,Baciu,46.787948,23.476377
+5,Stop Position,Cluj-napoca,46.77398,23.621795
+6,Girbău,Garbau,46.831313,23.358584
+7,Girbău,Garbau,46.830828,23.359142
+8,Gligorești,Luna,46.441941,23.995704
+9,Gligorești,Luna,46.441922,23.995751
+10,Gligorești,Luna,46.441969,23.995625
+11,Gligorești,Luna,46.441899,23.995811
+12,Iclod,Iclod,46.978609,23.816936
+13,Iclod,Iclod,46.978588,23.817012
+14,Poieni,Poieni,46.914026,22.861369
+15,Tunel,Cojocna,46.73192,23.813761
+16,Halta Valea Drăganului,Poieni,46.934653,22.844021
+17,Crinului,Baciu,46.794243,23.524693
+18,Paris,Cluj-napoca,46.782546,23.599884
+19,Ion Meșter,Cluj-napoca,46.757036,23.556529
+20,Barbu Patriciu,Cluj-napoca,46.78371,23.601451
+21,Tăuțiului N,Floresti,46.742733,23.498896
+22,Muncitorilor,Floresti,46.743079,23.498466
+23,M-Eroilor E,Floresti,46.735526,23.483927
+24,M-Someșului,Floresti,46.746399,23.499877
+25,Piața Gării Vest,Cluj-napoca,46.782239,23.587449
+26,Stop Position,Cluj-napoca,46.774168,23.591609
+27,Regal,Baciu,46.79164,23.528225
+28,UNIMET Nord,Cluj-napoca,46.796406,23.644841
+29,Stop Position,Cluj-napoca,46.797111,23.660479
+30,Septimiu Albini Nord,Cluj-napoca,46.769158,23.607927
+31,Stop Position,Cluj-napoca,46.78484,23.586809
+32,Stop Position,Cluj-napoca,46.7846,23.586932
+33,Ploiești,Cluj-napoca,46.776683,23.597846
+34,Nodul N Nord,Cluj-napoca,46.755861,23.537881
+35,Zorilor,Cluj-napoca,46.752704,23.577772
+36,Opera,Cluj-napoca,46.769883,23.597003
+37,Stop Position,Cluj-napoca,46.774619,23.590041
+38,Pod Traian,Cluj-napoca,46.7754,23.590316
+39,Piața Gării Sud,Cluj-napoca,46.784254,23.588425
+40,Oașului Sud Tram,Cluj-napoca,46.798702,23.606954
+41,Disp. ERS CUG,Cluj-napoca,46.796085,23.63594
+42,TERMOROM Nord Tram,Cluj-napoca,46.795971,23.630316
+43,SINTEROM Nord,Cluj-napoca,46.796011,23.621046
+44,Calvaria,Cluj-napoca,46.759199,23.557276
+45,Sora,Cluj-napoca,46.771615,23.592003
+46,Făgăraș,Cluj-napoca,46.786324,23.572048
+47,Calea Baciului,Cluj-napoca,46.785486,23.547811
+48,Stop Position,Apahida,46.775863,23.706028
+49,Stop Position,Apahida,46.767655,23.709542
+50,Tudor Vladimirescu Sud,Cluj-napoca,46.784299,23.555997
+51,Fabrica de Pâine Sud,Cluj-napoca,46.784307,23.539488
+52,Grupul Școlar CFR Est,Cluj-napoca,46.783758,23.591481
+53,Stop Position,Cluj-napoca,46.770138,23.566043
+54,Tudor Vladimirescu Nord,Cluj-napoca,46.784566,23.555327
+55,Stop Position,Apahida,46.764321,23.718402
+56,Stop Position,Apahida,46.775863,23.706028
+57,Stop Position,Apahida,46.767655,23.709542
+58,M-Profi V,Floresti,46.738092,23.48405
+59,Stop Position,Cluj-napoca,46.781729,23.636212
+60,Ambient,Cluj-napoca,46.78069,23.665749
+61,Piața Mărăști,Cluj-napoca,46.777668,23.611505
+62,Magazin Suceagu,Baciu,46.793427,23.479138
+63,Şcoala Suceagu,Baciu,46.784407,23.461266
+64,Transformator,Baciu,46.785156,23.46967
+65,Piața Cipariu Nord,Cluj-napoca,46.76847,23.599229
+66,Dacia,Cluj-napoca,46.775641,23.589245
+67,Piața Gării Noi,Cluj-napoca,46.784018,23.586496
+68,Pasaj Baciu,Baciu,46.797907,23.484068
+69,Luxor S,Floresti,46.736502,23.489461
+70,M-Chinteni,Chinteni,46.857593,23.54391
+71,Piața 14 Iulie Nord,Cluj-napoca,46.770935,23.56761
+72,Calea Florești,Cluj-napoca,46.757703,23.54599
+73,Stop Position,Cluj-napoca,46.757836,23.546717
+74,Disp. Bucium,Cluj-napoca,46.751904,23.543259
+75,Disp. Bucium,Cluj-napoca,46.751553,23.542688
+76,Baciu Triaj Hm,Cluj-napoca,46.787124,23.527375
+77,Crinului,Cluj-napoca,46.777782,23.611478
+78,Constantin Brâncoveanu utca,Cluj-napoca,46.763861,23.607885
+79,Constantin Brâncoveanu Est,Cluj-napoca,46.763496,23.608511
+80,Piața Agârbiceanu Vest,Cluj-napoca,46.761659,23.605912
+81,Siretului,Cluj-napoca,46.780613,23.627048
+82,Aurel Vlaicu,Cluj-napoca,46.780696,23.627712
+83,Dragalina Nord,Cluj-napoca,46.772587,23.582182
+84,Stop Position,Cluj-napoca,46.765666,23.549276
+85,Alexandru Vlahuță,Cluj-napoca,46.77013,23.559879
+86,Iancu de Hunedoara,Cluj-napoca,46.770358,23.56216
+87,Petuniei,Cluj-napoca,46.769696,23.555611
+88,Területi CFR Igazgatóság,Cluj-napoca,46.773246,23.597379
+89,Regionala CFR,Cluj-napoca,46.773096,23.596973
+90,Mareșal Constantin Prezan,Cluj-napoca,46.778495,23.615983
+91,Piața Gării Nord,Cluj-napoca,46.784047,23.586828
+92,Giordano Bruno,Cluj-napoca,46.786677,23.58116
+93,Școala Horea,Cluj-napoca,46.776657,23.587124
+94,Fabrica de Pâine Nord,Cluj-napoca,46.784088,23.540105
+95,Piața Mihai Viteazu Sud,Cluj-napoca,46.774028,23.589354
+0,Dragalina Sud,Cluj-napoca,46.772659,23.582368
+1,Stop Position,Cluj-napoca,46.768668,23.567828
+2,Stop Position,Cluj-napoca,46.766592,23.569797
+3,Calea Moților,Cluj-napoca,46.766164,23.579534
+101,Spitalul de copii,Cluj-napoca,46.766437,23.580267
+102,Disp. Unirii,Cluj-napoca,46.768146,23.630219
+103,Stop Position,Cluj-napoca,46.744154,23.651029
+104,Stop Position,Feleacu,46.720675,23.616219
+105,Piața Avram Iancu Nord,Cluj-napoca,46.771377,23.597237
+106,Stop Position,Apahida,46.766365,23.720864
+107,Stop Position,Cluj-napoca,46.780832,23.703997
+108,Stop Position,Feleacu,46.715975,23.629966
+109,Disp. Tram CUG,Cluj-napoca,46.796697,23.646566
+110,Borsec Nord,Cluj-napoca,46.768327,23.622365
+111,Stop Position,Cluj-napoca,46.762547,23.622481
+112,Alverna utca,Cluj-napoca,46.758581,23.616914
+113,Teatru,Cluj-napoca,46.770163,23.596855
+0,Traian,Cluj-napoca,46.780836,23.591742
+1,Piața Cipariu Sud,Cluj-napoca,46.767375,23.601697
+2,Piața Cipariu Est,Cluj-napoca,46.767914,23.601961
+3,Mălinului Vest,Cluj-napoca,46.760185,23.614144
+4,Snagov Sud,Cluj-napoca,46.767895,23.627871
+5,Iclod,Iclod,46.977991,23.816414
+6,Stop Position,Dej,47.130775,23.882467
+7,Stop Position,Dej,47.130297,23.88608
+8,Stop Position,Dej,47.130746,23.886671
+9,Stop Position,Dej,47.136698,23.887657
+10,Stop Position,Floresti,46.753225,23.532962
+11,Stop Position,Dej,47.141416,23.880148
+12,Stop Position,Cluj-napoca,46.784637,23.586906
+13,Stop Position,Cluj-napoca,46.78476,23.586853
+14,Stop Position,Cluj-napoca,46.784726,23.58687
+15,Snagov Nord,Cluj-napoca,46.767911,23.628447
+16,Herculane,Cluj-napoca,46.768442,23.619998
+17,Senină Nord,Cluj-napoca,46.789343,23.581408
+18,Poliția Est,Cluj-napoca,46.780167,23.589967
+19,Senină Sud,Cluj-napoca,46.789628,23.582332
+20,Cart. Blocuri Baciu,Baciu,46.79625,23.521767
+21,Stop Position,Cluj-napoca,46.784177,23.653675
+22,Stop Position,Cluj-napoca,46.784217,23.65442
+23,Vlad Țepeș,Cluj-napoca,46.783166,23.661621
+24,Traian Vuia Sud,Cluj-napoca,46.78081,23.677032
+25,Stop Position,Cluj-napoca,46.78098,23.680122
+26,Stop Position,Cluj-napoca,46.780369,23.669293
+27,Orăștie,Cluj-napoca,46.782821,23.662189
+28,Moș Ion Roată,Cluj-napoca,46.780419,23.670259
+29,Aeroport Sud,Cluj-napoca,46.781314,23.686124
+30,Branului,Cluj-napoca,46.784112,23.645827
+31,Stop Position,Cluj-napoca,46.781283,23.685624
+32,Stop Position,Cluj-napoca,46.785222,23.54531
+33,Central,Cluj-napoca,46.772711,23.588975
+34,Andrei Mureșanu,"Cluj-Napoca, RO",46.764155,23.602184
+35,Becaș Est,Cluj-napoca,46.754327,23.611558
+36,Becaș Vest,Cluj-napoca,46.754681,23.611139
+152,Complexul Tempus Sud,Cluj-napoca,46.748194,23.597908
+153,Complexul Tempus Nord,Cluj-napoca,46.747907,23.596633
+154,Drapelului Est,Cluj-napoca,46.75707,23.608641
+155,Stop Position,Cluj-napoca,46.757525,23.608213
+156,Fagului,Cluj-napoca,46.752778,23.610794
+157,Piața Agârbiceanu Est,Cluj-napoca,46.760207,23.606742
+158,Autogară,Cluj-napoca,46.786884,23.581032
+159,SIETA,Cluj-napoca,46.795522,23.627649
+160,Peana,Cluj-napoca,46.75461,23.554873
+161,Anton Pann,Cluj-napoca,46.779876,23.59473
+162,Stop Position,Cluj-napoca,46.760799,23.564108
+163,Piața 1 Mai,Cluj-napoca,46.78618,23.605297
+164,Fabrica de Bere,Cluj-napoca,46.763911,23.573738
+165,Memorandumului,Cluj-napoca,46.769509,23.586713
+166,Agronomia,Cluj-napoca,46.763037,23.572493
+167,Borsec Sud,Cluj-napoca,46.768148,23.623788
+168,Nicolae Titulescu,Cluj-napoca,46.7692,23.615508
+169,Bistriței,Cluj-napoca,46.769083,23.616467
+170,Stop Position,Cluj-napoca,46.782344,23.637597
+171,Stop Position,Cluj-napoca,46.778931,23.617687
+172,Septimiu Albini Sud,Cluj-napoca,46.769304,23.609952
+173,Stop Position,Cluj-napoca,46.781863,23.6962
+174,Stop Position,Cluj-napoca,46.752764,23.543555
+175,Stop Position,Cluj-napoca,46.758713,23.550846
+176,Stop Position,Cluj-napoca,46.78187,23.69631
+177,Stop Position,Cluj-napoca,46.781946,23.697624
+178,Stop Position,Cluj-napoca,46.7857,23.605596
+179,Stop Position,Cluj-napoca,46.760228,23.584016
+180,Stop Position,Cluj-napoca,46.763341,23.584562
+181,Mirăslău,Cluj-napoca,46.767023,23.550037
+182,Buzău,Cluj-napoca,46.769363,23.55469
+183,Piața 14 Iulie Sud,Cluj-napoca,46.770911,23.567387
+184,Hotel Napoca,Cluj-napoca,46.771812,23.576078
+185,Libertatea Est,Cluj-napoca,46.787374,23.59665
+186,Stop Position,Cluj-napoca,46.79183,23.599361
+187,IRIS Nord,Cluj-napoca,46.795039,23.601648
+188,IRIS Sud,Cluj-napoca,46.795654,23.602793
+189,TERAPIA,Cluj-napoca,46.797626,23.612978
+190,Oașului Sud,Cluj-napoca,46.797605,23.605388
+191,Oașului Nord,Cluj-napoca,46.798304,23.606372
+192,Octavian Goga,Cluj-napoca,46.771759,23.575563
+193,Stop Position,Cluj-napoca,46.762393,23.545549
+194,Stop Position,Cluj-napoca,46.771167,23.62601
+195,Stop Position,Cluj-napoca,46.774135,23.62173
+196,Stop Position,Cluj-napoca,46.770018,23.628001
+197,Stop Position,Cluj-napoca,46.761892,23.545017
+198,Stop Position,Cluj-napoca,46.768618,23.567883
+199,Stop Position,Cluj-napoca,46.78662,23.573598
+200,Stop Position,Cluj-napoca,46.785076,23.56528
+201,Stop Position,Cluj-napoca,46.797089,23.660099
+202,ERS CUG Nord,Cluj-napoca,46.796039,23.634261
+203,UNIMET,Cluj-napoca,46.796381,23.644798
+204,TERMOROM Nord,Cluj-napoca,46.795918,23.629841
+205,Stop Position,Cluj-napoca,46.79702,23.612678
+206,Termorom Sud,Cluj-napoca,46.795968,23.630706
+207,SINTEROM Sud,Cluj-napoca,46.795941,23.621414
+208,EKERLE,Cluj-napoca,46.796806,23.617055
+209,Stop Position,Cluj-napoca,46.796808,23.612818
+210,Stop Position,Cluj-napoca,46.763754,23.587331
+211,Stop Position,Cluj-napoca,46.760986,23.581079
+212,Stop Position,Cluj-napoca,46.762884,23.583332
+213,Stop Position,Cluj-napoca,46.787522,23.614935
+214,Stop Position,Cluj-napoca,46.78804,23.615178
+215,Stop Position,Cluj-napoca,46.791477,23.656151
+216,Stop Position,Cluj-napoca,46.786532,23.644883
+217,Stop Position,Cluj-napoca,46.780607,23.561931
+218,Stop Position,Cluj-napoca,46.780339,23.576845
+219,Stop Position,Cluj-napoca,46.780887,23.606026
+220,Stop Position,Cluj-napoca,46.781747,23.612131
+221,Stop Position,Cluj-napoca,46.78672,23.642282
+222,Stop Position,Cluj-napoca,46.786853,23.640228
+223,Stop Position,Cluj-napoca,46.787668,23.628823
+224,Stop Position,Cluj-napoca,46.790907,23.649552
+225,Stop Position,Cluj-napoca,46.788851,23.646369
+226,Stop Position,Cluj-napoca,46.787955,23.624253
+227,Stop Position,Cluj-napoca,46.716833,23.574996
+228,Stop Position,Cluj-napoca,46.786495,23.645481
+229,Stop Position,Cluj-napoca,46.78035,23.576224
+230,Stop Position,Cluj-napoca,46.78014,23.566009
+231,Stop Position,Cluj-napoca,46.780235,23.571242
+232,Stop Position,Cluj-napoca,46.780265,23.57262
+233,Stop Position,Cluj-napoca,46.77976,23.582709
+234,Stop Position,Cluj-napoca,46.779945,23.581751
+235,Stop Position,Cluj-napoca,46.780112,23.566346
+236,Stop Position,Cluj-napoca,46.779938,23.595182
+237,Stop Position,Cluj-napoca,46.779453,23.559128
+238,Stop Position,Cluj-napoca,46.779588,23.581861
+239,Stop Position,Cluj-napoca,46.777345,23.576232
+240,Stop Position,Cluj-napoca,46.776243,23.574264
+241,Stop Position,Cluj-napoca,46.777439,23.572832
+242,Stop Position,Cluj-napoca,46.791634,23.590588
+243,Călugăreni Sud,Cluj-napoca,46.793029,23.596531
+244,Vama Chinteni,Cluj-napoca,46.799873,23.607701
+245,Stop Position,Cluj-napoca,46.778037,23.577774
+246,Intermediară,Cluj-napoca,46.803048,23.607502
+247,Pometului,Cluj-napoca,46.807494,23.606122
+248,Școala,Cluj-napoca,46.810809,23.604759
+249,IAS,Cluj-napoca,46.813591,23.602881
+250,POD,Cluj-napoca,46.817371,23.600711
+251,Drum Feiurd,Cluj-napoca,46.821194,23.59447
+252,Stop Position,Cluj-napoca,46.723935,23.579294
+253,Stop Position,Cluj-napoca,46.72802,23.586018
+254,Podul Fetei,Cluj-napoca,46.825139,23.586717
+255,Stop Position,Cluj-napoca,46.828241,23.582864
+256,Stop Position,Cluj-napoca,46.780658,23.613809
+257,Stop Position,Cluj-napoca,46.782166,23.613144
+258,Stop Position,Cluj-napoca,46.776429,23.629218
+259,Stop Position,Cluj-napoca,46.776663,23.623815
+260,Stop Position,Cluj-napoca,46.777145,23.633856
+261,Stop Position,Cluj-napoca,46.777514,23.636169
+262,Stop Position,Cluj-napoca,46.777536,23.636324
+263,Stop Position,Cluj-napoca,46.778879,23.638864
+264,Stop Position,Cluj-napoca,46.776381,23.628902
+265,Stop Position,Cluj-napoca,46.776858,23.631907
+266,Stop Position,Cluj-napoca,46.777443,23.6231
+267,Stop Position,Cluj-napoca,46.778781,23.642245
+268,Stop Position,Cluj-napoca,46.743897,23.570768
+269,Stop Position,Cluj-napoca,46.748551,23.567533
+270,Stop Position,Cluj-napoca,46.748683,23.567436
+271,Stop Position,Cluj-napoca,46.751777,23.565428
+272,Stop Position,Cluj-napoca,46.771266,23.599168
+273,Stop Position,Cluj-napoca,46.773611,23.607531
+274,Stop Position,Cluj-napoca,46.776753,23.614408
+275,Stop Position,Cluj-napoca,46.749163,23.572846
+276,Stop Position,Cluj-napoca,46.753898,23.567604
+277,Stop Position,Cluj-napoca,46.765476,23.54945
+278,Mălinului Est,Cluj-napoca,46.76031,23.613934
+279,Stop Position,Cluj-napoca,46.770386,23.567093
+280,Stop Position,Cluj-napoca,46.738172,23.59069
+281,Minerva,Cluj-napoca,46.754372,23.554368
+282,Cloșca,Cluj-napoca,46.77774,23.587266
+283,Stop Position,Cluj-napoca,46.79683,23.654839
+284,Stop Position,Cluj-napoca,46.787304,23.634003
+285,Stop Position,Cluj-napoca,46.748872,23.581502
+286,Stop Position,Cluj-napoca,46.743477,23.585318
+287,Stop Position,Cluj-napoca,46.790199,23.655582
+288,Stop Position,Cluj-napoca,46.788213,23.653756
+289,Stop Position,Cluj-napoca,46.740066,23.58646
+290,Stop Position,Cluj-napoca,46.779363,23.693701
+291,Stop Position,Cluj-napoca,46.779081,23.648352
+292,Stop Position,Cluj-napoca,46.778603,23.669899
+293,Stop Position,Cluj-napoca,46.777683,23.682638
+294,Stop Position,Cluj-napoca,46.778202,23.660078
+295,Stop Position,Cluj-napoca,46.739366,23.586441
+296,Stop Position,Cluj-napoca,46.752525,23.563658
+297,Stop Position,Cluj-napoca,46.750161,23.558525
+298,Stop Position,Cluj-napoca,46.754739,23.62811
+299,Stop Position,Cluj-napoca,46.752601,23.634401
+300,Stop Position,Cluj-napoca,46.747261,23.647171
+301,Stop Position,Cluj-napoca,46.75041,23.639233
+302,Stop Position,Dej,47.132731,23.881379
+303,Stop Position,Dej,47.134874,23.887637
+304,Stop Position,Cluj-napoca,46.768076,23.574998
+305,Gheorghe Doja,Cluj-napoca,46.760599,23.597895
+306,Gara Mică,Cluj-napoca,46.784558,23.589536
+307,Regina Sud,Baciu,46.79185,23.525333
+308,Cămin Suceagu,Baciu,46.78438,23.464699
+309,Iclod,Iclod,46.977985,23.816489
+310,Stop Position,Cluj-napoca,46.771375,23.584093
+311,Stop Position,Cluj-napoca,46.788376,23.596671
+312,Stop Position,Cluj-napoca,46.752311,23.56496
+313,Stop Position,Cluj-napoca,46.785365,23.611896
+314,Parâng,Cluj-napoca,46.754421,23.554223
+315,Stop Position,Cluj-napoca,46.744393,23.584788
+316,M-Florești Cetate Sos,Floresti,46.729011,23.484369
+317,M-Florești Cetate Pl,Floresti,46.729583,23.483981
+318,M-Teilor,Floresti,46.732478,23.483493
+319,M-Stejarului,Floresti,46.733141,23.48363
+320,Stop Position,Cluj-napoca,46.749233,23.581203
+321,Disp. Grigorescu,Cluj-napoca,46.764773,23.549002
+322,I.P. Voitești,Cluj-napoca,46.774945,23.591499
+0,Cluj Napoca Est,Cluj-napoca,46.778986,23.670864
+1,Piața Gării Vechi,Cluj-napoca,46.784347,23.588495
+2,Gheorghe Dima,Cluj-napoca,46.752799,23.577883
+3,Stop Position,Cluj-napoca,46.7788,23.616945
+4,Someș,Cluj-napoca,46.775879,23.604695
+5,Baza Unirea,Cluj-napoca,46.751632,23.544695
+6,Stop Position,Cluj-napoca,46.755503,23.562242
+7,Clăbucet,Cluj-napoca,46.751587,23.544359
+332,TERMOROM Sud Tram,Cluj-napoca,46.795982,23.632283
+333,TERAPIA Sud Tram,Cluj-napoca,46.797583,23.613144
+334,TERAPIA Nord Tram,Cluj-napoca,46.797619,23.613086
+335,Plopilor Nord,Cluj-napoca,46.762812,23.559883
+336,Uzinei Electrice,Cluj-napoca,46.767211,23.56823
+337,Stop Position,Cluj-napoca,46.752178,23.595288
+338,Stop Position,Cluj-napoca,46.755272,23.59628
+339,Stop Position,Cluj-napoca,46.745442,23.592481
+340,Stop Position,Cluj-napoca,46.751042,23.594599
+341,Stop Position,Cluj-napoca,46.741459,23.591814
+342,Stop Position,Cluj-napoca,46.731247,23.597069
+343,Cluj Arena,Cluj-napoca,46.768098,23.570292
+344,Poligonului V,Floresti,46.74593,23.49908
+345,Sub Cetate V,Floresti,46.739493,23.496075
+346,Stop Position,Floresti,46.736517,23.489823
+347,Luxor N,Floresti,46.736556,23.490688
+348,Sub Cetate E,Floresti,46.738899,23.495989
+349,VIVO!,Cluj-napoca,46.754309,23.533009
+350,M-Cuza Vodă,Floresti,46.743858,23.475027
+351,Stop Position,Feleacu,46.717641,23.625456
+352,M-Il Milanese,Floresti,46.743899,23.47391
+353,M-Chinteni Lac,Chinteni,46.875452,23.523807
+354,M-Primaria Chinteni,Chinteni,46.861218,23.539907
+355,Habitat,Chinteni,46.869779,23.529314
+356,M-Dumitru Tautan,Floresti,46.741396,23.470981
+357,M-Șesu de Sus,Floresti,46.741304,23.465958
+358,M-Prof. Dumitru Mocanu,Floresti,46.742835,23.473443
+359,M-Garden,Chinteni,46.846968,23.557194
+360,M-Xamus,Chinteni,46.850902,23.548928
+361,Stop Position,Cluj-napoca,46.748468,23.581805
+362,Piața Mihai Viteazul Est,Cluj-napoca,46.774803,23.591687
+363,Observatorului Sud,Cluj-napoca,46.755756,23.593332
+364,Disp. Bucium,Cluj-napoca,46.751552,23.54277
+365,Grigore Alexandrescu,Cluj-napoca,46.758107,23.556757
+366,Răvașului,Cluj-napoca,46.75377,23.550883
+367,Metro Sud,Cluj-napoca,46.752472,23.525933
+368,Plopilor Sud,Cluj-napoca,46.762849,23.560764
+369,Splaiul Independenței,Cluj-napoca,46.767973,23.570104
+370,Opera Maghiară Est,Cluj-napoca,46.772119,23.58347
+371,Parcul Central,Cluj-napoca,46.771972,23.583707
+372,Sala Sporturilor,Cluj-napoca,46.767111,23.567652
+373,Facultatea de Litere,Cluj-napoca,46.778007,23.587204
+374,Horea,Cluj-napoca,46.777041,23.587107
+375,G. Barițiu,Cluj-napoca,46.773518,23.587811
+376,Stop Position,Cluj-napoca,46.751035,23.519429
+377,Stop Position,Dej,47.141378,23.894316
+378,Stop Position,Dej,47.14566,23.87734
+379,Stop Position,Dej,47.14425,23.877448
+380,Stop Position,Dej,47.137531,23.877867
+381,Stop Position,Dej,47.13388,23.880733
+382,Stop Position,Cluj-napoca,46.723935,23.579294
+383,Stop Position,Cluj-napoca,46.72802,23.586018
+384,Podul Fetei,Cluj-napoca,46.825139,23.586717
+385,Stop Position,Cluj-napoca,46.828241,23.582864
+386,Stop Position,Cluj-napoca,46.780658,23.613809
+387,Stop Position,Cluj-napoca,46.782166,23.613144
+388,Stop Position,Cluj-napoca,46.776429,23.629218
+389,Stop Position,Cluj-napoca,46.776663,23.623815
+390,Stop Position,Cluj-napoca,46.777145,23.633856
+391,Stop Position,Cluj-napoca,46.777514,23.636169
+392,Stop Position,Cluj-napoca,46.777536,23.636324
+393,Stop Position,Cluj-napoca,46.778879,23.638864
+394,Stop Position,Cluj-napoca,46.776381,23.628902
+395,Stop Position,Cluj-napoca,46.776858,23.631907
+396,Stop Position,Cluj-napoca,46.777443,23.6231
+397,Stop Position,Cluj-napoca,46.778781,23.642245
+398,Stop Position,Cluj-napoca,46.743897,23.570768
+399,Stop Position,Cluj-napoca,46.748551,23.567533
+400,Stop Position,Cluj-napoca,46.748683,23.567436
+401,Stop Position,Cluj-napoca,46.751777,23.565428
+402,Stop Position,Cluj-napoca,46.771266,23.599168
+403,Stop Position,Cluj-napoca,46.773611,23.607531
+404,Stop Position,Cluj-napoca,46.776753,23.614408
+405,Stop Position,Cluj-napoca,46.749163,23.572846
+406,Stop Position,Cluj-napoca,46.753898,23.567604
+407,Stop Position,Cluj-napoca,46.765476,23.54945
+408,Mălinului Est,Cluj-napoca,46.76031,23.613934
+409,Stop Position,Cluj-napoca,46.770386,23.567093
+410,Stop Position,Cluj-napoca,46.738172,23.59069
+411,Minerva,Cluj-napoca,46.754372,23.554368
+412,Cloșca,Cluj-napoca,46.77774,23.587266
+413,Stop Position,Cluj-napoca,46.79683,23.654839
+414,Stop Position,Cluj-napoca,46.787304,23.634003
+415,Stop Position,Cluj-napoca,46.748872,23.581502
+416,Stop Position,Cluj-napoca,46.743477,23.585318
+417,Stop Position,Cluj-napoca,46.790199,23.655582
+418,Stop Position,Cluj-napoca,46.788213,23.653756
+419,Stop Position,Cluj-napoca,46.740066,23.58646
+420,Stop Position,Cluj-napoca,46.779363,23.693701
+421,Stop Position,Cluj-napoca,46.779081,23.648352
+422,Stop Position,Cluj-napoca,46.778603,23.669899
+423,Stop Position,Cluj-napoca,46.777683,23.682638
+424,Stop Position,Cluj-napoca,46.778202,23.660078
+425,Stop Position,Cluj-napoca,46.739366,23.586441
+426,Stop Position,Cluj-napoca,46.752525,23.563658
+427,Stop Position,Cluj-napoca,46.750161,23.558525
+428,Stop Position,Cluj-napoca,46.754739,23.62811
+429,Stop Position,Cluj-napoca,46.752601,23.634401
+430,Stop Position,Cluj-napoca,46.747261,23.647171
+431,Stop Position,Cluj-napoca,46.75041,23.639233
