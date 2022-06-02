@@ -1,4 +1,4 @@
-<p><center> <img src="images/Picture101.png" width="700"/> </p></center>
+<p><center> <img src="images/Picture101.png" width="1000"/> </p></center>
 
 # waze-romania
 ## Using Waze data to better understand mobility issues in Romania.
